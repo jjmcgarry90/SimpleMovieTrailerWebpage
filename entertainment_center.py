@@ -15,7 +15,7 @@ def create_movie_list():
                                "http://cdn.collider.com/wp-content/uploads/2015/11/finding-dory-poster.jpg")  # NOQA
 
     groundhog_day = media.Movie("Groundhog Day", "A weatherman finds himself "
-                                "living the same day over and over"
+                                "living the same day over and over",
                                 "https://www.youtube.com/watch?v=tSVeDx9fk60",
                                 "http://www.impawards.com/1993/posters/groundhog_day.jpg")  # NOQA
     # Create a movie list that can be accessed from outside this function
